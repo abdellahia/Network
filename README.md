@@ -29,9 +29,7 @@ Options:
 ----------------------
 Example of use
 ----------------------
-<<<<<<< HEAD
-sudo ./projet0 -v 3 -o captures/bootp.pcap
--> an screen of the result is given in this file
+	sudo ./projet0 -v 3 -o captures/bootp.pcap
 
 ----------------------
 Protocols realized
@@ -51,8 +49,3 @@ IMAP
 SMTP
 ICMP
 SCTP
-=======
-./analyseur -o "http.cap"
-
-
->>>>>>> ea4a6c7ee7473c170869bf14f247942117f5a045

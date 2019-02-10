@@ -1,3 +1,4 @@
+
 -------------
 Installation:
 -------------
@@ -28,4 +29,30 @@ Options:
 ----------------------
 Example of use
 ----------------------
+<<<<<<< HEAD
+sudo ./projet0 -v 3 -o captures/bootp.pcap
+-> an screen of the result is given in this file
+
+----------------------
+Protocols realized
+----------------------
+Ethernet
+IPv4
+IPv6
+ARP
+TCP
+UDP
+BOOTP/DHCP
+DNS
+HTTP(S)
+FTP
+POP
+IMAP
+SMTP
+ICMP
+SCTP
+=======
 ./analyseur -o "http.cap"
+
+
+>>>>>>> ea4a6c7ee7473c170869bf14f247942117f5a045
